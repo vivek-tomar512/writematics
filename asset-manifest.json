@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/writematics/static/css/main.09085bbc.css",
+    "main.js": "/writematics/static/js/main.9d075759.js",
+    "static/js/453.195b869a.chunk.js": "/writematics/static/js/453.195b869a.chunk.js",
+    "static/media/img5.jpg": "/writematics/static/media/img5.2a77926b03b63f0089a5.jpg",
+    "static/media/img3.jpg": "/writematics/static/media/img3.32bd99216e35dd6b8c68.jpg",
+    "static/media/img2.jpg": "/writematics/static/media/img2.a30e84efa148153870b8.jpg",
+    "static/media/img1.jpg": "/writematics/static/media/img1.d188a444e5b6314059a3.jpg",
+    "static/media/img6.jpg": "/writematics/static/media/img6.6e44ca0aa85743fa46ca.jpg",
+    "static/media/img4.jpg": "/writematics/static/media/img4.32e988fe4127352a4002.jpg",
+    "static/media/Hero.jpg": "/writematics/static/media/Hero.db70f1b131d3411be4ff.jpg",
+    "index.html": "/writematics/index.html",
+    "main.09085bbc.css.map": "/writematics/static/css/main.09085bbc.css.map",
+    "main.9d075759.js.map": "/writematics/static/js/main.9d075759.js.map",
+    "453.195b869a.chunk.js.map": "/writematics/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09085bbc.css",
+    "static/js/main.9d075759.js"
+  ]
+}
